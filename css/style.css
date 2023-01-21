@@ -1,2 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
 
+.container {
+    min-width: 100%;
+    max-width: 1440px;
+}
+
+.container__item {
+    width: inherit;
+}
