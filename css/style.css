@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
 
 .container {
-    display: flex;
-    flex-direction: column;
     font-family: 'Barlow', sans-serif;
 }
 
 .container__item {
-    width: 100%;
+    display: flex;
 }
 
 .home {
