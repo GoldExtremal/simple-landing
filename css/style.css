@@ -1,10 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
 
 .container {
-    min-width: 100%;
-    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Barlow', sans-serif;
 }
 
 .container__item {
-    width: inherit;
+    width: 100%;
+}
+
+.home {
+    height: calc(100vw/1440*700);
+    background: radial-gradient(837.78% 378.29% at 69.44% -79.86%, rgba(31, 35, 39, 0) 0%, #191C1F 47.89%, rgba(31, 35, 39, 0) 100%), url(../img/homeImage.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
