@@ -63,3 +63,28 @@
     color: #fff;
     margin-bottom: calc(100vw/1440*30);
 }
+
+.btn {
+    width: 19.9306vw;
+    display: flex;
+    flex-direction: row;
+    background: #E11B19;
+    border-radius: calc(100vw/1440*40);
+    justify-content: center;
+    align-items: center;
+    padding: calc(100vw/1440*20);
+    gap: calc(100vw/1440*15);
+}
+
+.btn__text {
+    font-weight: 700;
+    font-size: calc(100vw/1440*16);
+    line-height: calc(100vw/1440*20);
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.btn__arrow {
+    width: 1.39vw;
+    height: calc(100vw/1440*20);
+}
