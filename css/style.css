@@ -25,3 +25,16 @@
     margin-top: calc(100vw/1440*30);
     margin-bottom: calc(100vw/1440*125);
 }
+
+.overline {
+    font-weight: 700;
+    font-size: calc(100vw/1440*16);
+    line-height: calc(100vw/1440*20);
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: calc(100vw/1440*5);
+}
+
+.home__overline {
+    font-size: calc(100vw/1440*18);
+}
