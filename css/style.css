@@ -81,6 +81,7 @@
     font-size: calc(100vw/1440*16);
     line-height: calc(100vw/1440*20);
     text-transform: uppercase;
+    white-space: nowrap;
     color: #fff;
 }
 
