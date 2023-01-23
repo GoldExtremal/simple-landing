@@ -38,3 +38,19 @@
 .home__overline {
     font-size: calc(100vw/1440*18);
 }
+
+.title {
+    width: 28.125vw;
+    font-weight: 700;
+    font-size: calc(100vw/1440*36);
+    line-height: calc(100vw/1440*40);
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: calc(100vw/1440*10);
+}
+
+.home__title {
+    width: 51.806vw;
+    font-size: calc(100vw/1440*64);
+    line-height: calc(100vw/1440*75);
+}
