@@ -54,3 +54,12 @@
     font-size: calc(100vw/1440*64);
     line-height: calc(100vw/1440*75);
 }
+
+.description {
+    width: 51.806vw;
+    font-weight: 400;
+    font-size: calc(100vw/1440*24);
+    line-height: calc(100vw/1440*30);
+    color: #fff;
+    margin-bottom: calc(100vw/1440*30);
+}
