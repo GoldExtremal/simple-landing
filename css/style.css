@@ -96,3 +96,29 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.benefits__title {
+    width: 17.2917vw;
+}
+
+.benefit {
+    display: flex;
+    width: 17.8472vw;
+}
+
+.benefit__icon {
+    width: 2.78vw;
+    margin-right: 1.39vw;
+}
+
+.benefit__title {
+    width: 13.472vw;
+}
+
+.benefit__text {
+    font-weight: 700;
+    font-size: calc(100vw/1440*24);
+    line-height: calc(100vw/1440*30);
+    text-transform: uppercase;
+    color: #fff;
+}
