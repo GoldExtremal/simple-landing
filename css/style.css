@@ -142,3 +142,18 @@
     flex-direction: column;
     justify-content: center;
 }
+
+.checklist {
+    margin-top: calc(100vw/1440*15);
+}
+
+.checklist__item {
+    display: flex;
+    align-items: center;
+}
+
+.check-mark {
+    margin-right: calc(100vw/1440*15);
+    width: 1.67vw;
+    height: calc(100vw/1440*24);
+}
