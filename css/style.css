@@ -122,3 +122,8 @@
     text-transform: uppercase;
     color: #fff;
 }
+
+.facilities {
+    height: calc(100vw/1440*600);
+    background: #1F2327;
+}
