@@ -89,3 +89,10 @@
     width: 1.39vw;
     height: calc(100vw/1440*20);
 }
+
+.benefits {
+    height: calc(100vw/1440*200);
+    background: #191C1F;
+    align-items: center;
+    justify-content: space-between;
+}
