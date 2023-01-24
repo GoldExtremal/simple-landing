@@ -199,3 +199,11 @@
 .banner__decsription {
     text-align: center;
 }
+
+.footer {
+    height: calc(100vw/1440*110);
+    background: #14171A;
+    padding-top: calc(100vw/1440*40);
+    padding-bottom: calc(100vw/1440*40);
+    align-items: center;
+}
