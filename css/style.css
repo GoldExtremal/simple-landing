@@ -127,3 +127,9 @@
     height: calc(100vw/1440*600);
     background: #1F2327;
 }
+
+.image {
+    width: 37.5vw;
+    height: calc(100vw/1440*360);
+    margin-top: calc(100vw/1440*180);
+}
