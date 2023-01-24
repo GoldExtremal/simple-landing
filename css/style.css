@@ -184,4 +184,7 @@
     height: calc(100vw/1440*488);
     background: radial-gradient(570.42% 265.28% at 47.92% 0%, #191C1F 0%, rgba(25, 28, 31, 0) 88.96%, rgba(25, 28, 31, 0.04) 100%), url(../img/bannerImage.svg);
     background-size: contain;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
