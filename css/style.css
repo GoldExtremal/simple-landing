@@ -157,3 +157,9 @@
     width: 1.67vw;
     height: calc(100vw/1440*24);
 }
+
+.leader {
+    height: calc(100vw/1440*600);
+    background: #191C1F;
+    padding-top: calc(100vw/1440*180);
+}
