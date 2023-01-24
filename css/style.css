@@ -133,6 +133,7 @@
 .image {
     width: 37.5vw;
     height: calc(100vw/1440*360);
+    overflow: hidden;
 }
 
 .about {
@@ -170,4 +171,11 @@
     font-size: calc(100vw/1440*18);
     line-height: calc(100vw/1440*25);
     color: #fff;
+}
+
+.leader__image {
+    width: 54.583vw;
+    height: calc(100vw/1440*547);
+    margin-top: calc(100vw/1440*(-57));
+    margin-left: calc(100vw/1440*(-14));
 }
