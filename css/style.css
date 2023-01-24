@@ -163,3 +163,11 @@
     background: #191C1F;
     padding-top: calc(100vw/1440*180);
 }
+
+.leader__text {
+    width: 28.125vw;
+    font-weight: 400;
+    font-size: calc(100vw/1440*18);
+    line-height: calc(100vw/1440*25);
+    color: #fff;
+}
