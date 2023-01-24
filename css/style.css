@@ -201,7 +201,6 @@
 }
 
 .footer {
-    height: calc(100vw/1440*110);
     background: #14171A;
     padding-top: calc(100vw/1440*40);
     padding-bottom: calc(100vw/1440*40);
@@ -212,7 +211,6 @@
     display: flex;
     justify-content: space-between;
     width: 8.33vw;
-    height: calc(100vw/1440*30);
 }
 
 .footer__icon {
