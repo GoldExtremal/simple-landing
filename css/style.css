@@ -202,8 +202,6 @@
 
 .footer {
     background: #14171A;
-    padding-top: calc(100vw/1440*40);
-    padding-bottom: calc(100vw/1440*40);
     align-items: center;
 }
 
@@ -216,4 +214,6 @@
 .footer__icon {
     width: 2.083vw;
     height: calc(100vw/1440*30);
+    margin-top: calc(100vw/1440*40);
+    margin-bottom: calc(100vw/1440*40);
 }
