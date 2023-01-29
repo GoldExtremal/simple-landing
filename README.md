@@ -1,6 +1,6 @@
 # Freedom Studios Academy
 
-    Freedom Studios Academy - my educational project in the portfolio.
+Freedom Studios Academy - my educational project in the portfolio.
     
 ![Image][preview]
 
